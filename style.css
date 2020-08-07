@@ -67,6 +67,7 @@ body {
   outline: none;
   border: none;
   color: white;
+  cursor:pointer;
 }
 :hover.butn {
   color: darkblue;
